@@ -1,4 +1,4 @@
-program bruh;
+program Ameba;
 
 var i, a, b, amebi,counter : integer;
 //var x : real;

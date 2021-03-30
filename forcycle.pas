@@ -1,6 +1,6 @@
 program Ameba;
 
-var i, a, b, amebi,counter : integer;
+var i, a, b, amebi : integer;
 //var x : real;
 begin 
 //For i:=10 to 5 do 

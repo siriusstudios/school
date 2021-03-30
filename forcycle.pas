@@ -2,7 +2,7 @@ program Ameba;
 
 var i, a, b, amebi,counter : integer;
 //var x : real;
-//begin 
+begin 
 //For i:=10 to 5 do 
 //begin 
 //writeln('ok', i);

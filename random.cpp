@@ -8,9 +8,13 @@ int main() {
     int nums[5] = {rand() % 10,rand() % 10,rand() % 10,rand() % 10,rand() % 10};
     
     for(int i:nums){
-        cout << i << " ";
-        if (i < i+1){
-            least = i;
+        if(i>4){
+            exit;
+        }
+        cout << nums[i] << " ";
+        
+        if (nums[i] < nums[i+1]){
+            least = nums[i];
         }
     }
     

@@ -40,3 +40,6 @@ for(int i : citnum){
 }
     
     int res = val/count;
+    cout << "the average is " << res;
+    
+}
